@@ -1,0 +1,10 @@
+---
+layout: splash
+permalink: /
+eature_row:
+  - image_path: /assets/images/grand-canyonjpg
+    alt: "placeholder image 1"
+    title: "Placeholder 1"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+
+---
