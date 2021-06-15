@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Build Civitas
+title: Civitas
 email: hello@buildcivitas.com
 
 description: Build Civitas provides online commmunity services by Jon Ericson and Sorin Istrate.
@@ -27,7 +27,7 @@ engaging community that will grow your online business."
   
 twitter_username: jlericson
 github_username: jericson
-minimal_mistakes_skin: air
+minimal_mistakes_skin: civitas
 search: true
 
 # Build settings

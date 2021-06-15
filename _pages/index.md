@@ -6,7 +6,7 @@ feature_row:
   - image_path: /assets/images/cc.svg
     alt: College Confidential
     #url: https://talk.collegeconfidential.com/
-  - image_path: /assets/images/BEATtheGMAT-logo-grey.svg
+  - image_path: /assets/images/BEATtheGMAT-logo-white.svg
     alt: Beat the GMAT
     #url: https://www.beatthegmat.com/mba/about
   - image_path: /assets/images/logo-stackoverflow.svg

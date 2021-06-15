@@ -1,0 +1,36 @@
+/* ==========================================================================
+   Civitas skin
+   ========================================================================== */
+
+/* Colors */
+$white: #FFFFFF;
+$goldfish: #9B9B72;
+$pale-pink: #C68997;
+$teal: #184954;
+
+$background-color: $teal !default;
+$text-color: $white !default;
+$muted-text-color: $goldfish !default;
+$primary-color: $goldfish !default;
+$border-color: mix($white, $teal, 75%) !default;
+$footer-background-color: $primary-color !default;
+$link-color: $pale-pink !default;
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: $text-color !default;
+$navicon-link-color-hover: mix($pale-pink, $text-color, 80%) !default;
+
+.page__footer {
+  color: #184954 !important; // override
+}
+
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
+}
+
+$global-font-family: "PT Sans", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+
+$header-font-family: 'Finger Paint', cursive;
+
+.site-title {
+    font-family: $header-font-family;
+}
