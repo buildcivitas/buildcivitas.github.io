@@ -91,7 +91,7 @@ defaults:
       layout: single
       author_profile: true
       header:
-        overlay_image: /assets/images/grand_canyon.jpg
+        overlay_image: /assets/images/havana.jpg
   # _services
   - scope:
       path: ""
