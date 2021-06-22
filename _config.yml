@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Civitas
+title: CIVITAS
 email: hello@buildcivitas.com
 
-description: Build Civitas provides online commmunity services by Jon Ericson and Sorin Istrate.
+description: Civitas provides online commmunity services by Jon Ericson and Sorin Istrate.
 
 author:
   name: "Jon Ericson and Sorin Istrate"
@@ -29,6 +29,8 @@ twitter_username: jlericson
 github_username: jericson
 minimal_mistakes_skin: civitas
 search: true
+
+# logo: /assets/images/LogoTeal.svg
 
 # Build settings
 #markdown: kramdown
@@ -91,7 +93,7 @@ defaults:
       layout: single
       author_profile: true
       header:
-        overlay_image: /assets/images/havana.jpg
+        overlay_image: /assets/images/GoldBrush.svg
   # _services
   - scope:
       path: ""
@@ -101,7 +103,7 @@ defaults:
       author_profile: true
       share: true
       header:
-        overlay_image: /assets/images/grand_canyon.jpg
+        overlay_image: /assets/images/GoldBrush.svg
       
 category_archive:
   type: liquid
