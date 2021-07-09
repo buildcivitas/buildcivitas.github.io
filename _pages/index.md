@@ -31,7 +31,7 @@ create an enduring brand.
 
 ## Mission
 
-Help you BUILD, GROW, and MONETIZE a healthy, active, and engaging
+Help you **build**, **grow**, and **monetize** a healthy, active, and engaging
 community that will grow your online
 
 ## Communities we've worked with:
