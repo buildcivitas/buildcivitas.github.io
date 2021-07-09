@@ -32,7 +32,7 @@ create an enduring brand.
 ## Mission
 
 Help you **build**, **grow**, and **monetize** a healthy, active, and engaging
-community that will grow your online
+community that will grow your online business.
 
 ## Communities we've worked with:
 
