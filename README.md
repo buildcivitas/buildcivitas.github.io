@@ -1,12 +1,8 @@
 # buildcivitas.github.io
-Civitas—a community consulting company
+Civitas&mdsah;a community consulting company
 
-Todo
+##Todo
 
-* Add contact link
-* Remove whiteline
-* Use PT Sans except for the logo
-* align pink circle on the top
-* make the logo bigger
-* remove authors/
+* Add contact form
+* Add headshots
 * match pink circle size to gold brush
