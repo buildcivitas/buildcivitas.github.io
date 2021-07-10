@@ -1,7 +1,7 @@
-# buildcivitas.github.io
-Civitas&mdsah;a community consulting company
+# buildcivitas.com
+Civitas - a community consulting company
 
-##Todo
+## Todo
 
 * Add contact form
 * Add headshots
