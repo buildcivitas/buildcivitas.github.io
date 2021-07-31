@@ -77,7 +77,7 @@ communities. Every community is different, but next steps could be:
 * Analyzing data to find barriers to entry.
 
 So here's the sales pitch: **for a moderate one-time fee, we will
-create a report for you community with concrete next steps**. There's
+create a report for your community with concrete next steps**. There's
 no obligation, but we can also help you execute on those steps. Or even
 better, we can train your community team to do the work themselves. We
 charge an hourly rate for additional consulting, but we believe
