@@ -89,7 +89,7 @@ also guided many Stack Exchange sites, including
 [Puzzling](https://puzzling.stackexchange.com/), [Space
 Exploration](https://space.stackexchange.com/),
 [Emacs](https://emacs.stackexchange.com/users/2/jon-ericson) and many
-others, to successful launches. Sorin help found [the Beat The GMAT
+others, to successful launches. Sorin was instrumental in growing the [the Beat The GMAT
 Forums](https://www.beatthegmat.com/forums) and managed [College
 Confidential's forums](https://www.collegeconfidential.com/). We've
 been in the trenches and seen what works (and what, unfortunately)
