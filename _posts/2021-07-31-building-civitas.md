@@ -64,7 +64,7 @@ well, can produce quite satisfactory returns. While other Q&amp;A
 companies struggled to source quality answers, Stack Overflow could
 rely on their unique community dedicated to answering coding questions
 to build a content library. With the effort (and money) saved, the
-company was able to spend a decade working on it's revenue model. 
+company was able to spend a decade working on its revenue model. 
 
 Rome wasn't built in a day and neither was Stack Overflow. Fortunately
 every organization can take immediate actions to cultivate exceptional
