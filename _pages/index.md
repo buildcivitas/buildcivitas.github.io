@@ -5,18 +5,21 @@ permalink: /
 title: Online Community Consultants
 
 feature_row:
-  - image_path: /assets/images/cc-white.svg
+  - image_path: /assets/images/cc.svg
     alt: College Confidential
-    #url: https://talk.collegeconfidential.com/
-  - image_path: /assets/images/BEATtheGMAT-logo-white.svg
+    url: https://talk.collegeconfidential.com/
+  - image_path: /assets/images/BEATtheGMAT-logo-grey.svg
     alt: Beat the GMAT
-    #url: https://www.beatthegmat.com/mba/about
-  - image_path: /assets/images/logo-stackoverflow-white.svg
+    url: https://www.beatthegmat.com/mba/about
+  - image_path: /assets/images/logo-stackoverflow.svg
     alt: Stack Overflow
-    #url: https://stackoverflow.com/
-  #- image_path: /assets/images/se-logo-white.svg
-   # alt: Stack Exchange
-    #url: https://stackexchange.com/
+    url: https://stackoverflow.com/
+  - image_path: /assets/images/se-logo.svg
+    alt: Stack Exchange
+    url: https://stackexchange.com/
+  - image_path: /assets/images/vested_large.png
+    alt: Vested
+    url: https://community.vested.co.in/
 ---
 
 ## Philosophy
