@@ -8,8 +8,8 @@ $goldfish: #9B9B72;
 $pale-pink: #C68997;
 $teal: #184954;
 
-$background-color: $teal !default;
-$text-color: $white !default;
+$background-color: $white !default;
+$text-color: $teal !default;
 $muted-text-color: $goldfish !default;
 $primary-color: $goldfish !default;
 /*$border-color: mix($white, $teal, 75%) !default;*/
@@ -24,12 +24,12 @@ $code-background-color      : $teal !default;
 $code-background-color-dark : $teal !default;
 
 
-/*
+
 .footer .page__footer .page__footer-follow .social-icons .svg-inline--fa {
     color: $goldfish !important; // override
     backgrout-color: $teal important; // override
 }
-*/
+
 
 $global-font-family: "PT Sans", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 
@@ -43,9 +43,20 @@ $header-font-family: $global-font-family;
 }
 
 
-body {
+.main::after {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.6;
     background-image: url("../images/Background.svg");
     background-repeat: no-repeat;
-    background-position: right bottom;
+    background-position: 50% 0;
+    background-size: cover;
+
+    
 }
 
