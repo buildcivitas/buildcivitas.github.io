@@ -16,7 +16,7 @@ Communities follow the same
 [scale](https://en.wikipedia.org/wiki/Power_law) as the Pareto
 principle. A small number of communities are large, but the majority
 lie somewhere on the long tail. That means for every Stack Overflow,
-there are hundreds of Slacks servers, GitHub organizations and
+there are hundreds of Slack servers, GitHub organizations and
 Discourse communities. Since hiring a full-time community manager can
 cost more than organizations can afford, most communities either do
 without or add that task to someone whose regular job is marketing or
