@@ -43,6 +43,12 @@ permalink: /:categories/:title/
 #paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-094LZGVT2D"
+    anonymize_ip: false # default
+
 include:
   - _pages
 
