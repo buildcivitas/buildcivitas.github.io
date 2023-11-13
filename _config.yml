@@ -30,7 +30,8 @@ github_username: jericson
 minimal_mistakes_skin: civitas
 search: true
 
-# logo: /assets/images/LogoTeal.svg
+logo: /assets/images/LogoTeal.svg
+teaser: /assets/images/LogoTeal.svg
 
 # Build settings
 #markdown: kramdown
