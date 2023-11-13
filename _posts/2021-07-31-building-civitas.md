@@ -96,7 +96,8 @@ been in the trenches and seen what works (and what, unfortunately)
 doesn't.
 
 If you have a community, we're here to help. What to learn more? Email
-us: `hello@buildcivitas.com`.
+us: <a class="u-email"
+href="mailto:jon@buildcivitas.com">jon@buildcivitas.com</a>.
 
 <!--
 "Community" has become something of a buzzword in the startup

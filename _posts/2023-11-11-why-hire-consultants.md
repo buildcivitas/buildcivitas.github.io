@@ -7,8 +7,8 @@ I've been a community manager for [a
 decade](https://jlericson.com/resume/). While I have some natural
 talent, nothing beats experience. It's hard to imagine a better way to
 get experience than at Stack Exchange where I worked with dozens of
-communities in all stages of development. During that time, for
-instance, I developed [a model of how communities grow and
+communities in all stages of development. During that time, I
+developed [a model of how communities grow and
 mature](https://jlericson.com/2021/08/19/community_startup.html). Not
 many people will be able to observe the patterns as closely as I did.
 
