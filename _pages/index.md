@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 
-title: Online Community Consultants
+title: Building Online Communities
 
 feature_row:
   - image_path: /assets/images/cc.svg
@@ -38,12 +38,6 @@ create an enduring brand.
 Send me an email: <a class="u-email"
 href="mailto:jon@buildcivitas.com">jon@buildcivitas.com</a> or [use
 our contact form](/contact/).
-
-## Mission
-
-Help you **build**, **grow**, and **monetize** a healthy, active, and engaging
-community that will grow your online business.
-
 
 ## Communities we've worked with:
 

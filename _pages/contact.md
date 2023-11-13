@@ -3,6 +3,10 @@ title: Contact
 permalink: /contact/
 ---
 
+Please email me at: <a class="u-email"
+href="mailto:jon@buildcivitas.com">jon@buildcivitas.com</a> or use
+this form:
+
 <form
   action="https://formspree.io/f/xnqlbqyn"
   method="POST"
@@ -12,7 +16,7 @@ permalink: /contact/
     <textarea name="message"></textarea>
   </label>
   <label>
-    Contact email:
+    Your contact email:
     <input type="email" name="_replyto">
   </label>
 
