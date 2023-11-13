@@ -80,6 +80,11 @@ collections:
     permalink: /:collection/:path
     sort_by: level
 
+comments:
+  provider: "discourse"
+  discourse:
+    server: meta.jlericson.com
+
 defaults:
 
   # _posts
@@ -100,6 +105,7 @@ defaults:
     values:
       layout: single
       author_profile: false
+      comments: true
       header:
         overlay_image: /assets/images/GoldBrush.svg
 
