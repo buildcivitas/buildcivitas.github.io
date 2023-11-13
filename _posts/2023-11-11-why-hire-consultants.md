@@ -1,6 +1,7 @@
 ---
 title: Why hire a community consultant?
 author: Jon Ericson
+image: /assets/images/havana.jpg
 ---
 
 I've been a community manager for [a
