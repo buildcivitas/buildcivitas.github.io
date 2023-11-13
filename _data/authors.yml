@@ -1,0 +1,14 @@
+# /_data/authors.yml
+
+Jon Ericson:
+  name        : "Jon ERicson"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jon@buildcivitas.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://jlericson.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/jlericson"
