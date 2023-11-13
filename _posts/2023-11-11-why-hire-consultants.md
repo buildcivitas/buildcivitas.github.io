@@ -1,6 +1,8 @@
 ---
 title: Why hire a community consultant?
 author: Jon Ericson
+overlay_image: /assets/images/havana.jpg
+og_image: /assets/images/havana.jpg
 image: /assets/images/havana.jpg
 ---
 
