@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 
-title: Building Online Communities
+title: Building Internet Communities
 
 feature_row:
   - image_path: /assets/images/cc.svg
@@ -31,6 +31,8 @@ you involved in the conversation? We believe investing in online
 community building is the single best way to reach customers (existing
 and new), gather authentic feedback about products and services, and
 create an enduring brand.
+
+Read more at [Jon Quixote](https://jlericson.com/).
 
 
 ## Contact

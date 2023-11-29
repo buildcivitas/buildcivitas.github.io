@@ -14,7 +14,7 @@ permalink: /talks/
 > of Stack Overflow, even inside the company, and as this is a
 > critical part of why we're the world's most successful user
 > generated site, being able to understand this stuff deeply, and,
-> more importantly, to explain it as eloquently as [Jon]  did, is
+> more importantly, to explain it as eloquently as [Jon] did, is
 > invaluable.&mdash;Joel Spolsky
 
 ## Unicorn Meta Zoo

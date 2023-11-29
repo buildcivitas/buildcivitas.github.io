@@ -2,6 +2,7 @@
 
 Jon Ericson:
   name        : "Jon Ericson"
+  avatar      : "/assets/images/Jon_Ericson.jpeg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -12,3 +13,4 @@ Jon Ericson:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/jlericson"
+      
