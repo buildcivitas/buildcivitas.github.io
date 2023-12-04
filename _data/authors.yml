@@ -1,16 +1,16 @@
 # /_data/authors.yml
 
 Jon Ericson:
-  name        : "Jon Ericson"
-  avatar      : "/assets/images/Jon_Ericson.jpeg"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jon@buildcivitas.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://jlericson.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/jlericson"
+  name          : "Jon Ericson"
+  avatar        : "/assets/images/Jon_Ericson.jpeg"
+  uri           : https://jlericson.com
+  email         : jon@buildcivitas.com
+  github        : jericson
+  stackoverflow : 1438
+  linkedin      : jonericson
+  keybase       : jericson
+  #twitter       : jlericson
+  #facebook      : jlericson
+  youtube       : 4of2
+
       

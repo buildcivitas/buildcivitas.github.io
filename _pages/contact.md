@@ -1,11 +1,16 @@
 ---
 title: Contact
 permalink: /contact/
+author: Jon Ericson
 ---
 
-Please email me (<a class="u-email"
-href="mailto:jon@buildcivitas.com">jon@buildcivitas.com</a>) or
-schedule a meeting:
+I'm always interested in talking about community even if you aren't a
+potential client. The two best ways to reach me are:
+
+* Asynchronously <a class="u-email"
+  href="mailto:jon@buildcivitas.com">via email</a>.
+* [Schedule a meeting](https://calendar.app.google/2fYmo3tSxJvAuRvh9)
+  if you want to chat.
  
 <!-- Google Calendar Appointment Scheduling begin -->
 <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">

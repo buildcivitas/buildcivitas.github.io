@@ -1,6 +1,7 @@
 ---
 title: Talks
 permalink: /talks/
+author: Jon Ericson
 ---
 
 ## The Token Economy of Stack Overflow

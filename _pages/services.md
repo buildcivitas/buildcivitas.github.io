@@ -1,14 +1,23 @@
 ---
 title: Services
 permalink: /services/
+author: Jon Ericson
 ---
 
-We offer a personalized approach to best fit the needs of both your
-business, as well as your online community. Our services offer
-actionable answers to questions such as:
+Got a community problem? I can help! Among other things I can:
 
---- | ---
-Should I **invest** in my online community? | **Online community discovery**: Assess whether your business needs an online community
-How do I **build** my online community? | **Community roadmap**: Establish your community goals and develop a plan to achieve them<br/>Add-on services:<br/>* Forum moderation strategy<br/>* Moderator recruitment<br/>* Community Rules and Terms of Service<br/>* Community health plan<br/>* Content strategy (source &amp; curate the best content for your community)<br/>* Special campaign setup &amp; implementation
-How do I **grow** my online community? | **Community health assessment**: Where your community is at vs. where it should be
-How do I **monetize** my online community? |**Develop a strategy to leverage your community to generate revenue streams**<br/>* Business development strategy<br/>* Client segmentation, pricing, and product offerings<br/>* Partnership strategy (work with customers to achieve successful partnerships)
+* [Start a new community.](https://jlericson.com/2021/08/19/community_startup.html)
+* [Install self-hosted community software.](https://jlericson.com/2021/04/06/oracle_discourse.html)
+* [Fix problems with community
+  software.](https://jlericson.com/2021/03/11/solving_with_shell.html)
+* [Create moderation policies.](https://jlericson.com/2020/09/15/cc_moderation.html)
+* [Empower users to contribute to
+  documentation.](https://jlericson.com/2022/04/04/docs2_contribution.html)
+* [Plan a strategy to integrate community with your
+  business.](https://jlericson.com/2022/05/23/community_product.html).
+* [Interview community members to understand what they _really_ are
+  looking for.](https://jlericson.com/2016/06/30/usability_tests.html)
+* [Build a customer support system powered by the
+  community.](https://jlericson.com/tag/support.html)
+* [Much, much
+  more!](https://jlericson.com/2021/03/23/2021_CMX_report.html)
