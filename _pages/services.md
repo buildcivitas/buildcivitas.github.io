@@ -21,3 +21,7 @@ Got a community problem? I can help! Among other things I can:
   community.](https://jlericson.com/tag/support.html)
 * [Much, much
   more!](https://jlericson.com/2021/03/23/2021_CMX_report.html)
+
+Some clients prefer paying by the hour. Others want a fixed price for
+the project. I'm flexible! Just [reach out](/contact/) and we can
+figure out what works for your budget.
