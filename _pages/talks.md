@@ -18,6 +18,8 @@ author: Jon Ericson
 > more importantly, to explain it as eloquently as [Jon] did, is
 > invaluable.&mdash;Joel Spolsky
 
+> Jon is an astute long-term observer of SE culture.&mdash;[Jeff Atwood](https://web.archive.org/web/20131015073107/http://blog.stackoverflow.com/2013/08/please-welcome-jon-ericson-community-manager/#comment-81460)
+
 ## Unicorn Meta Zoo
 
 I hosted a podcast with other Stack Exchange community managers which
