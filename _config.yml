@@ -30,9 +30,9 @@ github_username: jericson
 minimal_mistakes_skin: civitas
 search: true
 
-#logo: /assets/images/LogoTeal.svg
-teaser: /assets/images/LogoTeal.svg
-og_image: /assets/images/LogoTeal.svg
+logo: /assets/images/kiwi.jpg
+#teaser: /assets/images/LogoTeal.svg
+#og_image: /assets/images/LogoTeal.svg
 
 # Build settings
 #markdown: kramdown
@@ -107,7 +107,7 @@ defaults:
       author_profile: true
       comments: true
       header:
-        overlay_image: /assets/images/GoldBrush.svg
+       # overlay_image: /assets/images/GoldBrush.svg
 
 
 category_archive:

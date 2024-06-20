@@ -7,3 +7,5 @@ main:
     url: /talks/
   - title: "Contact"
     url: /contact/
+  - title: "Community"
+    url: https://beta.buildcivitas.com/
