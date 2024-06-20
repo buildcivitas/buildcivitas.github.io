@@ -1,6 +1,9 @@
 ---
 title: Portfolio
 permalink: /portfolio/
+header:
+  overlay_image: /assets/images/observatory.jpg 
+  teaser: /assets/images/observatory.jpg 
 ---
 
 For more than a decade, I’ve had the good fortune to manage a diverse collection of communities which gave me unique experience as a community manager. I started my community consultancy, Civitas, so that I could maximize the impact of my expertise. My clients see immediate improvements in their communities after bringing me on. Not only that, I obsessively document and share my findings so that other people can succeed when interacting with the community. 
