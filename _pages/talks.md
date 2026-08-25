@@ -20,6 +20,12 @@ author: Jon Ericson
 
 > Jon is an astute long-term observer of [Stack Exchange] culture.&mdash;[Jeff Atwood](https://web.archive.org/web/20131015073107/http://blog.stackoverflow.com/2013/08/please-welcome-jon-ericson-community-manager/#comment-81460)
 
+## How the OpenSSL community was built on Heartbleed
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nvMDYcfw17E?si=5ppqhZjK5trUxR3j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Slides](https://fosdem.org/2026/events/attachments/CLBXJC-openssl-community-heartbleed/slides/267569/heartblee_ix6mshe.pdf)
+
 ## State of the OpenSSL Community as of 3.6
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b30biARiETY?si=UN0ag7dyu2wWkLko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
